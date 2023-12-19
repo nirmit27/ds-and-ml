@@ -1,2 +1,2 @@
 # kaggle-notebooks
-<h4 align="center">Learning ML</h4>
+<h3 align="center">Some stuff from Kaggle.</h3>
