@@ -1,2 +1,2 @@
 # kaggle-notebooks
-Here are my Kaggle notebooks.
+<strong style="color:blue" align="center">Learning ML</strong>
