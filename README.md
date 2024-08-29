@@ -1,2 +1,2 @@
-<h1 align="center">Learning ML</h1>
-<p align="center">Here you can explore my&nbsp;<a href="https://www.kaggle.com/work/code">Kaggle</a>&nbsp;and <b>Colab</b> notebooks dedicated to exploring and understanding the essential <b>Machine Learning</b> concepts. </p>
+<h1 align="center">Data Science and ML</h1>
+<p align="center">My work dedicated to exploring and understanding the essential <b>Data Science</b>, <b>Data Analytics</b> and <b>Machine Learning</b> concepts. </p>
