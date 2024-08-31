@@ -1,4 +1,4 @@
-""""""
+"""For transferring .csv file data into MySQL tables"""
 import os
 import pandas as pd
 from sqlalchemy import create_engine
