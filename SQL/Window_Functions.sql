@@ -11,11 +11,22 @@ select * from orders;
 -- drop table orders;
 
 
+-- DB Swiggy
+create database swiggy;
+use swiggy;
+show tables;
+drop database swiggy;
+
+select * from orders;
+-- drop table orders;
+
+
 -- DB IPL
 create database ipl_08_22;
 use ipl_08_22;
-drop database ipl_08_22;
+show tables;
 
+-- drop database ipl_08_22;
 select count(*) as 'number_of_records' from ipl;
 
 
@@ -216,4 +227,15 @@ select concat("Match - ", row_number() over(order by ID)) as 'match_no',
 from ipl
 where batter = "V Kohli"
 group by ID;
+
+-- Q.14) Find out the percent of total amount earned from all the foods for restaurant #1.
+select food_id, t3.f_name as 'food_name', round(total_amount/sum(total_amount) over() * 100, 2) as 'percent_of_total' 
+from (select f_id as 'food_id', sum(amount) as 'total_amount' from orders t1
+join order_details t2
+on t1.order_id = t2.order_id
+where r_id = 1
+group by f_id) as t
+join food t3
+on t.food_id = t3.f_id
+order by percent_of_total desc;
 
