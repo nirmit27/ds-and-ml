@@ -1,2 +1,20 @@
-<h1 align="center">Data Science and ML</h1>
-<p align="center">My efforts dedicated to exploring and understanding the essential <b>Data Science</b> and <b>Machine Learning</b> concepts. </p>
+# Data Science and ML
+
+This repository contains the study material and practice problem solutions for gaining a better understanding of the fundamentals and core concepts of **Data Science**, **Machine Learning** and **Deep Learning**.
+
+## Contents
+### 1. Machine Learning
+  - #### [Toy datasets](./ML/Data) 
+  - #### [Colab notebooks](./ML/Notebooks) 
+### 2. Deep Learning
+  - #### [TensorFlow](./DL/TensorFlow)
+  - #### [PyTorch](./DL/PyTorch)
+### 3. Data Analysis
+  - #### [SQL Data Analysis](./SQL)
+    * ##### [Queries](./SQL/Queries)
+    * ##### [Jupyter notebooks](./SQL/Notebooks)
+  - #### [Pandas Data Analysis](./EDA)
+    
+<br>
+
+> Keep learning! ✌️
