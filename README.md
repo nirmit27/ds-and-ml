@@ -6,6 +6,7 @@ This repository contains the study material and practice problem solutions for g
 ### 1. Machine Learning
   - #### [Toy datasets](./ML/Data) 
   - #### [Colab notebooks](./ML/Notebooks) 
+  - #### [Basic projects](./Models)
 ### 2. Deep Learning
   - #### [TensorFlow](./DL/TensorFlow)
 ### 3. Data Analysis
@@ -13,8 +14,6 @@ This repository contains the study material and practice problem solutions for g
     * ##### [Queries](./SQL/Queries)
     * ##### [Jupyter notebooks](./SQL/Notebooks)
   - #### [Pandas Data Analysis](./EDA)
-### 4. [Models](./Models)
-  Some basic ML projects.
 
 <br>
 
