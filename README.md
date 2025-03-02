@@ -15,6 +15,3 @@ This repository contains the study material and practice problem solutions for g
     * ##### [Jupyter notebooks](./SQL/Notebooks)
   - #### [Pandas Data Analysis](./EDA)
 
-<br>
-
-> Keep learning! ✌️
