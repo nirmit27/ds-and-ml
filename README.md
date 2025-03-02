@@ -8,13 +8,14 @@ This repository contains the study material and practice problem solutions for g
   - #### [Colab notebooks](./ML/Notebooks) 
 ### 2. Deep Learning
   - #### [TensorFlow](./DL/TensorFlow)
-  - #### [PyTorch](./DL/PyTorch)
 ### 3. Data Analysis
   - #### [SQL Data Analysis](./SQL)
     * ##### [Queries](./SQL/Queries)
     * ##### [Jupyter notebooks](./SQL/Notebooks)
   - #### [Pandas Data Analysis](./EDA)
-    
+### 4. [Models](./Models)
+  Some basic ML projects.
+
 <br>
 
 > Keep learning! ✌️
