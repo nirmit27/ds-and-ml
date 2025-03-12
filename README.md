@@ -9,6 +9,7 @@ This repository contains the study material and practice problem solutions for g
   - #### [Basic projects](./Models)
 ### 2. Deep Learning
   - #### [TensorFlow](./DL/TensorFlow)
+  - #### [PyTorch](./DL/PyTorch)
 ### 3. Data Analysis
   - #### [SQL Data Analysis](./SQL)
     * ##### [Queries](./SQL/Queries)
