@@ -11,9 +11,9 @@ This repository contains the study material and practice problem solutions for g
   - #### [TensorFlow](./DL/TensorFlow)
   - #### [PyTorch](./DL/PyTorch)
 ### 3. Data Analysis
-  - #### [SQL Data Analysis](./SQL)
+  - #### [SQL](./SQL)
     * ##### [Queries](./SQL/Queries)
     * ##### [Jupyter notebooks](./SQL/Notebooks)
-  - #### [Pandas Data Analysis](./EDA)
+  - #### [Practice](./EDA)
 
 ---
